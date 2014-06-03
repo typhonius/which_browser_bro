@@ -1,0 +1,6 @@
+name = "Which Browser Bro?"
+description = "Detects via JS which browser is being used"
+core = "7.x"
+version = 7.x-1.0-supadev
+
+scripts[] = js/which_browser_bro.js
